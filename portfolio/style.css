@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin: 30px;
+}
+
+.container{
+    display: flex;
+    background-color: blue;
+    color: black;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.cointainer1{
+    margin-top: 10px;
+}
+
+.main_container{
+    display: flex;
+    background-color: black;
+    color: blue ;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.Sub_container1{
+    padding: 15px;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+}
+
+.Sub_container2{
+    color: white;
+    background-color:red;
+    margin-bottom: 10px;
+}
+
+.end-part{
+    background-color: brown;
+    color: rgb(221, 8, 193);
+    line-height: 30px;
+    margin-top: 20px;
+    padding: 30px;
+}
+    
+
+
